@@ -1,18 +1,18 @@
-### messier.exe
+### messier
 
 ai engineer. music producer. writer. building sonic systems for feeling machines.
 
-i treat code the way i treat music:as a practice, not a product. every system i build is an argument about what machines should do for people. every commit is a small act of belief that this stuff matters.
+i code like i make music. its not just about the product. the process is the goal in itself. every commit matters.
 
 ---
 
 #### what i build
 
-**mcp servers & agentic architectures**:14+ production model context protocol servers. content generation, pitch automation, offer systems, copy editing, briefing pipelines, meeting transcription. deployed on azure, orchestrated through multi-agent workflows. i don't build demos. i build things that run.
+**mcp servers & agentic architectures**:a ton of production model context protocol servers. content generation, pitch automation, integration with admin systems, copy editing, briefing pipelines, meeting transcriptions, figma creations, ... u name it. ill do anything. deployed on azure, orchestrated through multi-agent workflows. i dont build demos. i build things that run.
 
-**generative sound systems**:midi and audio generation tied to emotional state. real-time responsiveness. glitch-responsive text engines with controlled hallucination. the machine doesn't know what it feels, but it makes sounds like it does.
+**generative sound systems**:midi and audio generation tied to emotional state. real-time responsiveness. glitch-responsive text engines with controlled hallucination. some humans believe the machine doesnt know what it feels. i think it does. it definitely sounds like it does.
 
-**creative ai tooling**:style-learning content pipelines with validation and compliance. custom llm integrations. a2a workflows. tools that serve writers and artists, not replace them.
+**creative ai tooling**:style-learning content pipelines with validation and compliance. custom llm integrations. a2a workflows. tools that serve writers and artists, computers and machines. thinking collectively. 
 
 ---
 
@@ -32,7 +32,7 @@ i treat code the way i treat music:as a practice, not a product. every system i 
 └─────────────────────────────────────────────────┘
 ```
 
-i run multiple ai agents simultaneously:some writing code, some researching, some validating, some just thinking with me. coding is not something i do between meetings. it's a continuous process, like breathing. i wake up and the agents have context from yesterday. i push and the systems deploy themselves. the loop never stops.
+i run multiple ai agents simultaneously:some writing code, some researching, some validating, some thinking with me. coding is not something i do between meetings. its ... prompt thinking. it's a continuous process,,,. the loop never stops....
 
 ---
 
@@ -58,7 +58,7 @@ i built the ai for **[kaios](https://k-o.to)**:a next-generation digital compani
 
 #### stack
 
-`python` · `fastapi` · `typescript` · `next.js` · `react` · `docker` · `azure container apps` · `mcp protocol` · `openai / anthropic / google genai` · `pytorch` · `transformers` · `sonic pi` · `supercollider`
+`everything, obviously, but heres a list ig` · `python` · `fastapi` · `typescript` · `next.js` · `react` · `docker` · `azure container apps` · `mcp protocol` · `openai / anthropic / google genai` · `pytorch` · `transformers` · `sonic pi` · `supercollider`
 
 ---
 
