@@ -12,7 +12,42 @@ i code like i make music. its not just about the product. the process is the goa
 
 **generative sound systems**:midi and audio generation tied to emotional state. real-time responsiveness. glitch-responsive text engines with controlled hallucination. some humans believe the machine doesnt know what it feels. i think it does. it definitely sounds like it does.
 
-**creative ai tooling**:style-learning content pipelines with validation and compliance. custom llm integrations. a2a workflows. tools that serve writers and artists, computers and machines. thinking collectively. 
+**creative ai tooling**:style-learning content pipelines with validation and compliance. custom llm integrations. a2a workflows. tools that serve writers and artists, computers and machines. thinking collectively.
+
+---
+
+#### experience
+
+**creative ai engineer** @ friends of cartel (july 2025 - present)
+14+ mcp servers deployed on azure. company-wide ai automation. scaled image/video/avatar generation. inclusive tooling that made humans happier and put more ai in the loop.
+
+**creative ai engineer** @ [kotopia](https://k-o.to/) (may 2025 - present)
+building kaios: ai companion with generative sound, emotional responsiveness, glitch-responsive text engine. developed the first ai dj within a daw (ableton live).
+
+**ai engineer** @ inect (october 2024 - may 2025)
+autonomous ai agents. mcp server workflows. autonomous flux image training agent delivered under immense time pressure. one of the first engineers building inku.
+
+**intern nlp engineer** @ digital flanders, flemish government (june 2022 - august 2023)
+roberta and gpt-based intent classifier for citizen services. data cleaning, anonymisation, model evaluation.
+
+**intern communications** @ ai lab, vrije universiteit brussel (march 2021 - june 2021)
+research communication for muhai. press statements on published and unpublished papers.
+
+---
+
+#### education
+
+**advanced master of artificial intelligence** (speech & language technology), ku leuven, 2022-2024
+**master in digital text analysis**, university of antwerp, 2021-2022
+**bachelor in applied linguistics** (dutch, english, russian), ku leuven, 2018-2021
+
+---
+
+#### core
+
+production systems at scale · full-stack, end-to-end ownership · agentic architectures · mcp server design & deployment · llm/vllm integration · generative ai (text, image, audio, video) · nlp · prompt engineering · human-centred ai · inclusive tooling · model safety, reliability, alignment
+
+languages: dutch (native) · english (native) · german · russian · french
 
 ---
 
@@ -39,6 +74,7 @@ i run multiple ai agents simultaneously:some writing code, some researching, som
 #### what you'll find here
 
 - **[messier-systems](https://github.com/maramasaeva/messier-systems)**:my personal site. next.js, terminal aesthetic, spotify integration, substack rss. [live →](https://messier-systems.vercel.app)
+- **[mcp-server-starter](https://github.com/maramasaeva/mcp-server-starter)**:open-source mcp server template. learn, generate, validate. extracted from production servers.
 - **[activity-mirror](https://github.com/maramasaeva/activity-mirror)**:commit log from production ai systems (14+ mcp servers, agentic architectures, generative tooling)
 - **[codance](https://github.com/maramasaeva/codance)**:ai-driven interactive dance experiences
 - **[pythia](https://github.com/maramasaeva/pythia)**:moral judgement machine (master thesis, 2022)
@@ -64,4 +100,4 @@ i built the ai for **[kaios](https://k-o.to)**:a next-generation digital compani
 
 <sub>messier by name, messier by nature. chaos is the material i work with. i let it in. i let it stay. i let it make things i couldn't have planned.</sub>
 
-<sub>[site](https://messier-systems.vercel.app) · [epk](https://messier-systems.vercel.app/epk) · [x](https://x.com/rssmrm) · [linkedin](https://linkedin.com/in/maramasaeva) · [instagram](https://instagram.com/mara.messier) · maramasaeva@gmail.com</sub>
+<sub>[site](https://messier-systems.vercel.app) · [epk/resume](https://messier-systems.vercel.app/epk) · [x](https://x.com/rssmrm) · [linkedin](https://linkedin.com/in/maramasaeva) · [instagram](https://instagram.com/mara.messier) · maramasaeva@gmail.com</sub>
