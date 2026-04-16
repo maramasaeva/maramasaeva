@@ -19,7 +19,7 @@ i code like i make music. its not just about the product. the process is the goa
 #### experience
 
 **creative ai engineer** @ friends of cartel (july 2025 - present)
-14+ mcp servers deployed on azure. company-wide ai automation. scaled image/video/avatar generation. inclusive tooling that made humans happier and put more ai in the loop.
+loads of mcp servers deployed on azure. company-wide ai automation. scaled image/video/avatar generation. inclusive tooling that made humans happier and put more ai in the loop.
 
 **creative ai engineer** @ [kotopia](https://k-o.to/) (may 2025 - present)
 building kaios: ai companion with generative sound, emotional responsiveness, glitch-responsive text engine. developed the first ai dj within a daw (ableton live).
