@@ -100,4 +100,4 @@ i built the ai for **[kaios](https://k-o.to)**:a next-generation digital compani
 
 <sub>messier by name, messier by nature. chaos is the material i work with. i let it in. i let it stay. i let it make things i couldn't have planned.</sub>
 
-<sub>[site](https://messier-systems.vercel.app) · [epk/resume](https://messier-systems.vercel.app/epk) · [x](https://x.com/rssmrm) · [linkedin](https://linkedin.com/in/maramasaeva) · [instagram](https://instagram.com/mara.messier) · maramasaeva@gmail.com</sub>
+<sub>[site](https://messier-systems.vercel.app) · [projects](https://messier-systems.vercel.app/projects) · [blog](https://messier-systems.vercel.app/blog) · [resume](https://messier-systems.vercel.app/resume) · [uses](https://messier-systems.vercel.app/uses) · [epk](https://messier-systems.vercel.app/epk) · [x](https://x.com/rssmrm) · [linkedin](https://linkedin.com/in/maramasaeva) · [instagram](https://instagram.com/mara.messier) · maramasaeva@gmail.com</sub>
